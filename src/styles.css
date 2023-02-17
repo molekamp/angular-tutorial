@@ -79,7 +79,7 @@ label {
   cursor: pointer;
   background-color: #1976d2;
   color: white;
-  border: none;
+  border: 1px solid #616161;
 }
 
 .button:hover, button:hover {
